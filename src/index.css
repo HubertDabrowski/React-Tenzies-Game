@@ -1,0 +1,9 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  background-color: rgb(64, 35, 110);
+  height: 100vh;
+  font-family: Cabin;
+}
